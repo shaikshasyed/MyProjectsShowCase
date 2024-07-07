@@ -1,0 +1,19 @@
+.nav-bar {
+  padding: 20px;
+  background-color: #cbd5e1;
+  width: 100%;
+  height: 10vh;
+}
+
+.logo {
+  width: 120px;
+  height: 40px;
+  margin-left: 50px;
+}
+
+.nav-button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
